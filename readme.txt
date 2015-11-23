@@ -6,3 +6,5 @@ git diff Test
 git add1
 
 git add2
+
+Creating a new branch is quick.
