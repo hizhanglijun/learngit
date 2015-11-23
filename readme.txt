@@ -10,3 +10,5 @@ git add2
 Creating a new branch is quick.
 
 分支管理测试
+
+fast merge
