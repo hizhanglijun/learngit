@@ -10,7 +10,7 @@
 */
 
 
-class JinZhiZhuanHuanDemo
+class JinZhiZhuanHuan
 {
 	public static void main(String[] args)
 	{
